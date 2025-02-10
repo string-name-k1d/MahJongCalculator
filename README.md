@@ -19,4 +19,4 @@ This is an incomplete prototype for a customizable score calculator for the game
 Currently under development
 
 ## Credits
-Thx to help from [cx0014] (https://github.com/cx0014)
+Thx to help from [cx0014](https://github.com/cx0014)
