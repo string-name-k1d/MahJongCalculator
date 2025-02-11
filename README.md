@@ -1,3 +1,4 @@
+# KMP
 This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
@@ -12,3 +13,10 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+# MahJongCalculator
+This is an incomplete prototype for a customizable score calculator for the game of MahJong.
+Currently under development
+
+## Credits
+Thx to help from [cx0014](https://github.com/cx0014)
