@@ -22,4 +22,9 @@ class Game {
             pastRounds.tail!!.content.addRecord(pRecord)
         }
     }
+
+    // To be implemented (version control? or just delete)
+    fun back() {
+
+    }
 }
